@@ -1,4 +1,5 @@
 ## Welcome to my GitHub! I'm Karine Cavalcanti 👋
+Computer Engineering student passionate about coding, algorithms, and building meaningful projects.
 
 <div>
   <a href="https://github.com/karinecavalcanti">
@@ -23,6 +24,5 @@
   <a href="https://www.linkedin.com/in/karine-cavalcanti-20b8b5268" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
-Computer Engineering student passionate about coding, algorithms, and building meaningful projects.
 <!-- Snake animation opcional -->
 <!-- ![Snake animation](https://github.com/karinecavalcanti/karinecavalcanti/blob/output/github-contribution-grid-snake.svg) -->
