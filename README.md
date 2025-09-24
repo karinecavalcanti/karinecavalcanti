@@ -1,10 +1,10 @@
-## Oiii! Eu sou a Karine Cavalcanti
+## Welcome to my GitHub! I'm Karine Cavalcanti 👋
 
+Computer Engineering student passionate about coding, algorithms, and building meaningful projects.
 <div>
   <a href="https://github.com/karinecavalcanti">
-  <!-- Stats simplificado -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karinecavalcanti&show_icons=true&theme=dracula"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinecavalcanti&layout=compact&langs_count=6&theme=dracula"/>
+  <!-- MOSTRA APENAS AS LINGUAGENS (sem a parte de commits que dá erro) -->
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinecavalcanti&layout=compact&langs_count=10&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
