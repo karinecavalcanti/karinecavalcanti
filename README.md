@@ -1,4 +1,4 @@
-## Welcome to my GitHub! I'm Karine Cavalcanti 👋
+## Welcome to my GitHub! I'm Karine Cavalcanti 
 Computer Engineering student passionate about coding, algorithms, and building meaningful projects.
 
 <div>
